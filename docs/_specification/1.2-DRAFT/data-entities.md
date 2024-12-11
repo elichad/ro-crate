@@ -67,15 +67,16 @@ In any of the above cases where files are not described, a directory containing 
 
 ### Example linking to a file and folders
 
+Given this folder structure:
 ```
 <RO-Crate root>/
   |   ro-crate-metadata.json
   |   cp7glop.ai
   |   lots_of_little_files/
-  |    | file1
-  |    | file2
+  |    | 2019-01-01.csv
+  |    | 2019-01-02.csv
   |    | ...
-  |    | file54
+  |    | 2019-12-31.csv
 ```
 
 An example _RO-Crate JSON-LD_ for the above would be as follows:
@@ -94,6 +95,10 @@ An example _RO-Crate JSON-LD_ for the above would be as follows:
       "@type": [
         "Dataset"
       ],
+      "name": "Glop Pot temperature data 2019",
+      "description": "Temperature data collected from the Glop Pot cave during 2019.",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/au/",
+      "datePublished": "2020-01-01",
       "hasPart": [
         {
           "@id": "cp7glop.ai"
@@ -106,7 +111,7 @@ An example _RO-Crate JSON-LD_ for the above would be as follows:
     {
       "@id": "cp7glop.ai",
       "@type": "File",
-      "name": "Diagram showing trend to increase",
+      "name": "Glop Plot map",
       "contentSize": "383766",
       "description": "Illustrator file for Glop Pot",
       "encodingFormat": "application/pdf"
