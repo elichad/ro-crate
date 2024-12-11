@@ -134,6 +134,7 @@ If the dataset contained  a large number of `*.ai` files which were spread throu
       "@type": [
         "Dataset"
       ],
+      ...
       "hasPart": [
         {
           "@id": "#ai-files"
