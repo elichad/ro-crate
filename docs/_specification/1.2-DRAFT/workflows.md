@@ -250,6 +250,10 @@ The below is an example of an RO-Crate complying with the Bioschemas [Computatio
     {
       "@id": "./",
       "@type": "Dataset",
+      "name": "KNIME sequence alignment workflow",
+      "description": "A KNIME workflow for sequence alignment",
+      "license": { "@id": "https://spdx.org/licenses/CC-BY-NC-SA-4.0"},
+      "datePublished": "2020-05-23",
       "hasPart": [
           { "@id": "workflow/alignment.knime" }
       ]
