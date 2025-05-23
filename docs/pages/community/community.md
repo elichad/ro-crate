@@ -127,17 +127,27 @@ The RO-Crate Community is open for anyone to [join us](https://github.com/Resear
 
 ## Steering Committee
 
-We are in the process of adapting the [Minimal Viable Governance](https://github.com/github/MVG) and are establishing a Steering Committee:
+Our [governance](https://github.com/ResearchObject/governance) is open and adapted from [Minimal Viable Governance](https://github.com/github/MVG). We have established a Steering Committee:
 
 * Carole Goble  
 * Peter Sefton
 * Stian Soiland-Reyes  
+* Rudolf Wittner
+* Mike Lynch
+* Raul Palma
+* Daniel Garijo
+* Eli Chadwick
+* Marc Portier
+* Abigail Miller
+* Josh Moore
 
-You may contact the steering committe at `contact()researchobject.org` for any confidential matter.
+The steering committee meets quarterly and those meetings are open to all community members.
+
+You may contact the steering committee at `contact()researchobject.org` for any confidential matter.
 
 ## Meetings
 
-The RO-Crate team try to meet at least monthly in a telcon, see the [rolling agenda](https://s.apache.org/ro-crate-minutes) for schedule, call-in details and minutes.
+The RO-Crate team meet twice a month online, see the [rolling agenda](https://s.apache.org/ro-crate-minutes) for schedule, call-in details and minutes.
 
 There are also regular [regional drop-in calls](https://s.apache.org/ro-crate-regional) aimed at those newer to the RO-Crate community. These sessions are suitable for beginner questions, as well as discussing ideas for new tools/integrations.
 
