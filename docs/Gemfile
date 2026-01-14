@@ -7,7 +7,10 @@ gem "jemoji", "~> 0.13.0"
 gem "kramdown-parser-gfm", "~> 1.1"
 gem "html-proofer", "~> 4.4.3"
 gem "nokogiri", ">=1.18.8" # used by html-proofer, https://github.com/ResearchObject/ro-crate/security/dependabot/53
-gem 'jekyll-feed'
+
+# fork of jekyll-feed where we prevent future posts being shown in the blog RSS feed
+# see https://github.com/jekyll/jekyll-feed/pull/425 for status on the fix in the original gem
+gem 'jekyll-feed', git: "https://github.com/elichad/jekyll-feed", branch: "hide-future-posts" 
 
 group :jekyll_plugins do
   gem "jekyll-redirect-from", "~> 0.16.0"
