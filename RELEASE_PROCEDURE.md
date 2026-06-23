@@ -11,7 +11,7 @@ A `Makefile` does most of the search-replacing using sed. Markdown is rendered t
 This works best on a Linux or OS X machine. Installation for Ubuntu 20.04:
 
 ```
-sudo apt -y install make pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra nodejs npm sed
+sudo apt -y install make pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra librsvg2-bin nodejs npm sed
 npm i ro-crate
 ```
 
