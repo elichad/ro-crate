@@ -127,7 +127,7 @@ The _RO-Crate_ team is:
 * Esteban González <https://orcid.org/0000-0003-4112-6825>
 * Phil Reed <https://orcid.org/0000-0002-4479-715X>
 * Tilo Mathes <https://orcid.org/0000-0002-9694-748X>
-* Saurabh Dome
+* Saurabh Dome <https://orcid.org/0009-0009-8827-1289>
 * Niklas-Maximilian Epping <https://orcid.org/0000-0002-7348-4566>
 * Margareta Hellström <https://orcid.org/0000-0002-4154-2610>
 * Paul Slavin <https://orcid.org/0009-0009-5499-2096>
