@@ -276,11 +276,11 @@
 
 - name: NovaCrate
   description: Web-based interactive editor for creating, editing and visualizing RO-Crates
-  status: alpha
-  url: https://github.com/kit-data-manager/NovaCrate?tab=readme-ov-file#-novacrate
+  status: production
+  url: https://novacrate.datamanager.kit.edu/
   subitems:
     - name: Web-based editor
-      url: https://kit-data-manager.github.io/NovaCrate/editor
+      url: https://novacrate.datamanager.kit.edu/
     - name: GitHub
       url: https://github.com/kit-data-manager/NovaCrate
 
