@@ -131,6 +131,8 @@ The _RO-Crate_ team is:
 * Niklas-Maximilian Epping <https://orcid.org/0000-0002-7348-4566>
 * Margareta Hellström <https://orcid.org/0000-0002-4154-2610>
 * Paul Slavin <https://orcid.org/0009-0009-5499-2096>
+* Deb McCaffrey <https://orcid.org/0000-0002-3624-6358>
+* Loïc Jeanson <https://orcid.org/0000-0001-7452-0648>
 
 The RO-Crate Community is open for anyone to [join us](https://github.com/ResearchObject/ro-crate/issues/1)!
 
